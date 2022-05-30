@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+
+header {
+  padding-left: 35%;
+}
+#featured-property{
+  display: flex;
+  padding-left: 15%;
+  display: block;
+}
+#details{
+  display: flex;
+  grid-template-rows: max-content;
+  padding-block-end: 4px;
+  border: solid;
+  border-color: red;
+  background-color: red;
+
+
+}
+#details{
+  padding-right: 30px;
+
+}
+#corre{
+padding-left: 50px;
+}
+#links{
+  padding-left: 100px;
+
+}
+#follow{
+  padding-left: 100px;
+  padding-right: -100px;
+
+}
